@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development...
 - 🌱 I’m currently learning at alx and holberton.
 - 💞️ I’m looking to collaborate on many more projects..
-- 📫 How to reach me ...
+- 📫 Reach me on whatsapp +2347044169264
 
 <!---
 PriscillaRoyals/PriscillaRoyals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
